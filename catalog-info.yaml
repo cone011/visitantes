@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: visitantes
+  annotations:
+    github.com/project-slug: cone011/visitantes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Fintech
